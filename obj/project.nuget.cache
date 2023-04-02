@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaP3sOLS12vlOjtuqXRC+aY+q/UOJr4K7SlQeZppDGdlAW43GEZJOEuzwSfPpfzebE8vO/CbL8yWWGAPdIVjwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Taniko\\Documents\\projects\\XPSidebar\\YukisCoffee.TrueStyleWPF\\YukisCoffee.TrueStyleWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Taniko\\.nuget\\packages\\pinvoke.kernel32\\0.7.124\\pinvoke.kernel32.0.7.124.nupkg.sha512",
+    "C:\\Users\\Taniko\\.nuget\\packages\\pinvoke.user32\\0.7.124\\pinvoke.user32.0.7.124.nupkg.sha512",
+    "C:\\Users\\Taniko\\.nuget\\packages\\pinvoke.uxtheme\\0.7.124\\pinvoke.uxtheme.0.7.124.nupkg.sha512",
+    "C:\\Users\\Taniko\\.nuget\\packages\\pinvoke.windows.core\\0.7.124\\pinvoke.windows.core.0.7.124.nupkg.sha512",
+    "C:\\Users\\Taniko\\.nuget\\packages\\pinvoke.windows.shellscalingapi\\0.7.124\\pinvoke.windows.shellscalingapi.0.7.124.nupkg.sha512",
+    "C:\\Users\\Taniko\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Taniko\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Taniko\\.nuget\\packages\\validation\\2.4.15\\validation.2.4.15.nupkg.sha512"
+  ],
+  "logs": []
+}
